@@ -27,3 +27,5 @@ M-f Move forward a word, where a word is composed of letters and digits.
 M-b Move backward a word.
 
 C-l Clear the screen, reprinting the current line at the top.
+
+wc -l : count number of line. Ex : ls | wc -l
