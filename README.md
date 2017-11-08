@@ -29,3 +29,6 @@ M-b Move backward a word.
 C-l Clear the screen, reprinting the current line at the top.
 
 wc -l : count number of line. Ex : ls | wc -l
+
+grep -nrl "text*" : list the files contains text
+
